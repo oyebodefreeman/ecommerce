@@ -1,0 +1,136 @@
+body{
+	margin:0;
+	background-color:black;
+	color:white;
+	font-family: sans-serif;
+}
+.main-content{
+	background-color: white;
+	border-radius: 70px 70px 0px 0px;
+	height: 40rem;
+	padding: 0;
+	height: ;
+}
+header {
+	padding:40px;
+	margin:10px;
+	margin-bottom: 100px;
+}
+.menu-icon{
+	width:64px;
+	height:66px;	
+	color:white;
+}
+.image-man {
+	width:150px;
+	height:150px;
+	border-radius: 100%;
+	float: right;
+}
+
+.top-content {
+	padding: 0 40px;
+}
+h2{
+	font-size: 3rem;
+}
+.top-content-price{
+	font-size: 7rem;
+}
+.dollar-sign{
+	font-size: 5rem;
+}
+
+.main-content{
+	background-color: white;
+	border-radius: 70px 70px 0px 0px;
+	height: 63rem;
+	padding: 40px;
+	color:black;
+}
+
+
+.main-content-head {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.bills {
+	font-size: 3rem;
+}
+.b4upay {
+	font-size: 1.7rem;
+}
+.main-content-price {
+	margin-left: 200px;
+	font-size: 1.7rem;
+	color:grey;
+}
+
+.services {
+	 display: flex;
+	 margin-top: 3rem;
+	justify-content: space-around;
+}
+#services-logo {
+	width: 60px;
+	height:63.61px;
+}
+#services-object {
+	border-radius: 20px;
+	padding: 20px 50px;
+	text-align: left;
+}
+
+#services-object.github {
+	background-color: #e6def0;
+}
+
+#services-object.mailchimp {
+	background-color: #f0edea;
+}
+
+#services-object.digital-ocean {
+	background-color: #c1dedc;
+}
+.price {
+	font-size: 2rem;
+}
+.price span {
+	font-size: 1.2rem;
+}
+
+#services-object p {
+	color: grey;
+}
+
+.services-list {
+	margin-top: 15px;
+}
+#services-list-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.services-list-head {
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.7rem;
+	
+}
+.services-list-item-logo {
+	border-radius: 10px;
+	background-color: #e6def0;
+	width: 50px;
+	height: 50px;
+	font-size: 2.4rem;
+	text-align: center;
+}
+
+.services-list-item-details {
+	line-height: 4px;
+	text-align: left;
+}
+.services-list-item-price {
+	line-height: 4px;
+}
